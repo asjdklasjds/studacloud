@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-study-consul-consumer80" />
+        <module name="cloud-study-eureka7001" />
+        <module name="cloud-study-hystrix-dashboard9001" />
+        <module name="cloud-study-feign-consumer80" />
+        <module name="cloud-study-gateway9527" />
+        <module name="cloud-study-consumer80" />
+        <module name="cloud-study-hystrix-server8001" />
+        <module name="cloud-study-api" />
+        <module name="cloud-study-config3366" />
+        <module name="cloud-study-consul-server8006" />
+        <module name="cloud-study-config" />
+        <module name="cloud-study-feign-hystrix-consumer80" />
+        <module name="cloud-study-eureka7002" />
+        <module name="cloud-study-server8002" />
+        <module name="cloud-study-server8001" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud-study-config3355" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

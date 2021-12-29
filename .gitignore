@@ -1,0 +1,16 @@
+# Project exclude paths
+/cloud-study-api/target/
+/cloud-study-config/target/
+/cloud-study-config3366/target/
+/cloud-study-consul-consumer80/target/
+/cloud-study-consul-server8006/target/
+/cloud-study-consumer80/target/
+/cloud-study-eureka7001/target/
+/cloud-study-eureka7002/target/
+/cloud-study-feign-consumer80/target/
+/cloud-study-feign-hystrix-consumer80/target/
+/cloud-study-gateway9527/target/
+/cloud-study-hystrix-dashboard9001/target/
+/cloud-study-hystrix-server8001/target/
+/cloud-study-server8001/target/
+/cloud-study-server8002/target/
